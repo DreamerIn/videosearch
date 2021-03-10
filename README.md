@@ -1,1 +1,1 @@
-# A video search too created using React JS
+# A video search tool created using React JS
